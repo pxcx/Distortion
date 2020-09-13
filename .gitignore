@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# build folders
+/Builds/VisualStudio2019/.vs/
+/Builds/VisualStudio2019/x64/
