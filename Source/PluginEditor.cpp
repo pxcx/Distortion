@@ -65,7 +65,7 @@ void DistortionAudioProcessorEditor::paint (juce::Graphics& g)
 
 
     g.drawText("Drive", firstWidth, height, 100, 20, juce::Justification::centred, false);
-    g.drawText("Range", secondWidth, height, 100, 20, juce::Justification::centred, false);
+    g.drawText("Tone", secondWidth, height, 100, 20, juce::Justification::centred, false);
     g.drawText("Blend", thirdWidth, height, 100, 20, juce::Justification::centred, false);
     g.drawText("Volume", fourthWidth, height, 100, 20, juce::Justification::centred, false);
 }
